@@ -60,7 +60,7 @@ In order to estimate the monetary shock using the approach of Bjorland and Leite
 
 	a) The first 3 sheets are the steps to produce the B&L (2009) SVAR model (more details are within the files). The 4th sheet, titled "SVAR structural residuals", are the shocks from the EViews estimated model.
 
-	b) In the 5th Sheet, which is called "Indicator Function", the indicator functions to be used for each of the two LP equations are found. 
+	b) In the 5th sheet, which is called "Indicator Function", the indicator functions to be used for each of the two LP equations are found. 
 
 	c) The last sheet is the LP ready dataset.
 
